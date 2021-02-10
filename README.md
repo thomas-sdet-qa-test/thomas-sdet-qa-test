@@ -1,5 +1,5 @@
 # Thomas Clement | SDET & Data Science  
-🔹 Senior Software Development Engineer in Test (SDET) (R26205) at Epic Games  
+🔹 Software Development Engineer in Test (SDET) (R26205) at Epic Games  
 🔹 Data Scientist | AI & Machine Learning in Gaming  
 
 ### 🚀 Skills & Expertise  
