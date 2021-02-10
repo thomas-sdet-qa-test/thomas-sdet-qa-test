@@ -1,16 +1,19 @@
-## Hi there 👋
+# Thomas Clement | SDET & Data Science  
+🔹 Senior Software Development Engineer in Test (SDET) at Epic Games  
+🔹 Data Scientist | AI & Machine Learning in Gaming  
 
-<!--
-**thomas-sdet-qa-test/thomas-sdet-qa-test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills & Expertise  
+- Advanced QA Automation (Selenium, PyTest, CI/CD, Kubernetes)  
+- Data Science & AI for Game Analytics (Python, TensorFlow, NLP)  
+- Load & Performance Testing (JMeter, k6, Grafana)  
+- DevOps & CI/CD Pipelines (Jenkins, GitHub Actions)  
 
-Here are some ideas to get you started:
+### 📈 Contributions & Projects  
+- [Fortnite QA Automation](https://github.com/Epic-Games-QA-Labs-Chile/fortnite-qa-automation)  
+- [EpicGames AI Models](https://github.com/Epic-Games-QA-Labs-Chile/epicgames-ai-models)  
+- [Game Load Testing](https://github.com/Epic-Games-QA-Labs-Chile/game-load-testing)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Contact  
+📧 kyron2077@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/thomas-clement)  
+
