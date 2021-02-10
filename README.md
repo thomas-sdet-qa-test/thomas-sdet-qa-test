@@ -3,17 +3,19 @@
 🔹 Data Scientist | AI & Machine Learning in Gaming  
 
 ### 🚀 Skills & Expertise  
-- Advanced QA Automation (Selenium, PyTest, CI/CD, Kubernetes)  
-- Data Science & AI for Game Analytics (Python, TensorFlow, NLP)  
-- Load & Performance Testing (JMeter, k6, Grafana)  
-- DevOps & CI/CD Pipelines (Jenkins, GitHub Actions)  
+- Advanced QA Automation (Selenium, PyTest, CI/CD, Unreal Engine)  
+- Data Science & AI for Game Analytics (Python, TensorFlow, NLP, Reinforcement Learning)  
+- Load & Performance Testing (JMeter, k6, Grafana, Unreal Insights)  
+- Game Development QA (Unreal Engine Automation, Blueprints Testing, Physics Simulation)  
+- DevOps & CI/CD Pipelines (Jenkins, GitHub Actions, Perforce Automation)  
 
 ### 📈 Contributions & Projects  
-- [Fortnite QA Automation](https://github.com/Epic-Games-QA-Labs-Chile/fortnite-qa-automation)  
-- [EpicGames AI Models](https://github.com/Epic-Games-QA-Labs-Chile/epicgames-ai-models)  
-- [Game Load Testing](https://github.com/Epic-Games-QA-Labs-Chile/game-load-testing)  
+- 🎮 [Fortnite QA Automation](https://github.com/Epic-Games-QA-Labs-Chile/fortnite-qa-automation) - Automated testing for battle royale mechanics  
+- 🤖 [EpicGames AI Models](https://github.com/Epic-Games-QA-Labs-Chile/epicgames-ai-models) - Machine learning for player behavior analysis  
+- 📊 [Game Load Testing](https://github.com/Epic-Games-QA-Labs-Chile/game-load-testing) - Stress testing at scale for multiplayer servers  
+- 🚀 [EpicGames Data Pipeline](https://github.com/Epic-Games-QA-Labs-Chile/epicgames-data-pipeline-) - Real-time data processing for game analytics  
 
 ### 📬 Contact  
 📧 thomas.clement@epicgames.com  
-🔗 [LinkedIn]([https://linkedin.com/in/thomas-clement](https://www.linkedin.com/in/thomas-ignace-clement-bouzigues-8506b22a3/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/thomas-ignace-clement-bouzigues-8506b22a3/)  
 
