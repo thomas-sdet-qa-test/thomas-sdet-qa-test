@@ -14,6 +14,6 @@
 - [Game Load Testing](https://github.com/Epic-Games-QA-Labs-Chile/game-load-testing)  
 
 ### 📬 Contact  
-📧 kyron2077@gmail.com  
+📧 thomas.clement@epicgames.com  
 🔗 [LinkedIn](https://linkedin.com/in/thomas-clement)  
 
