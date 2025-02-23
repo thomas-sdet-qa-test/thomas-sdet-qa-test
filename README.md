@@ -1,5 +1,5 @@
 # Thomas Clement | SDET & Data Science  
-🔹 Senior Software Development Engineer in Test (SDET) at Epic Games  
+🔹 Senior Software Development Engineer in Test (SDET) (R26205) at Epic Games  
 🔹 Data Scientist | AI & Machine Learning in Gaming  
 
 ### 🚀 Skills & Expertise  
@@ -15,5 +15,5 @@
 
 ### 📬 Contact  
 📧 thomas.clement@epicgames.com  
-🔗 [LinkedIn](https://linkedin.com/in/thomas-clement)  
+🔗 [LinkedIn]([https://linkedin.com/in/thomas-clement](https://www.linkedin.com/in/thomas-ignace-clement-bouzigues-8506b22a3/))  
 
