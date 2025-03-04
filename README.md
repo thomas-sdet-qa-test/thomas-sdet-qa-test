@@ -16,6 +16,6 @@
 - 🚀 [EpicGames Data Pipeline](https://github.com/Epic-Games-QA-Labs-Chile/epicgames-data-pipeline-) - Real-time data processing for game analytics  
 
 ### 📬 Contact  
-📧 thomas.clement@epicgames.com  
+📧 contacto@thomasclement.dev  
 🔗 [LinkedIn](https://www.linkedin.com/in/thomas-ignace-clement-bouzigues-8506b22a3/)  
 
