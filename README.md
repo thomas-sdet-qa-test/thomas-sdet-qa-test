@@ -17,5 +17,5 @@
 
 ### 📬 Contact  
 📧 contacto@thomasclement.dev  
-🔗 [LinkedIn](https://www.linkedin.com/in/thomas-ignace-clement-bouzigues-8506b22a3/)  
+
 
